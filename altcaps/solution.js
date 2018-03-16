@@ -10,5 +10,5 @@ function capitalize(s){
        oddStr+=s[i].toUpperCase();
      }
    }
-    return [evenIndexStrings, oddIndexStrings];
+    return [evenStr, oddStr];
   };
